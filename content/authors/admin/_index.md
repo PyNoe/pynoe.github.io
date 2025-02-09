@@ -20,92 +20,68 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Physics student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ENS PSL
+    url: https://www.ens.psl.eu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:noe.daniel@ens.psl.eu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/PyNoe
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/noedaniel
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fluid mechanics
+  - Statistical physics
+  - Computational physics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Fundamental Physics
+    institution: Ecole Normale Supérieure (ENS-PSL)
+    date_start: 2024
+    date_end: 2026
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Soft matter & interfaces, biophysics, climate physics, phase transitions, chaos...
+      - Stochastic processes, advanced probabilities, dynamical systems.
+      - Machine Learning, numerical solutions for PDEs.
+      - Ocean dynamics, dynamical meteorology
+  - area: BSc Physics
+    institution: Ecole Normale Supérieure (ENS-PSL)
+    date_start: 2023
+    date_end: 2024
     summary: |
-      GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Fluid mechanics, statistical physics, quantum physics, lagrangian mechanics, experimental physics...
+      - Complex analysis, perturbative methods, probability, linear algebra.
+      - Advanced Python & Mathematica
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: VRSC
+    company_name: Princeton
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-03-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: Internship under the supervision of L. Deike.
+
+  - position: Research intern
+    company_name: Institut Jean le Rond d'Alembert - CNRS
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-07-01
+    date_end: 2024-07-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Optimization of hydrogels' freezing times under the superivision of L. Séguy, S. Protière, A. Huerre.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
