@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Lagrangian Neural Networks
+date: 2025-01-01
+external_link: https://github.com/PyNoe/LNN
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Noé
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Machine Learning Project on Lagrangian Neural Networks (LNN) to predict accurate trajectories of complex and chaotic systems
 
 <!--more-->
