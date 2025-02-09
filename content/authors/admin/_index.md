@@ -1,9 +1,6 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Noé Daniel
 
 # Full name (for SEO)
 first_name: Noé
@@ -36,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/PyNoe
   - icon: brands/linkedin
-    url: https://www.linkedin.com/noedaniel
+    url: www.linkedin.com/in/noedaniel
 
 interests:
   - Fluid mechanics
@@ -72,8 +69,8 @@ work:
     company_logo: ''
     date_start: 2024-03-01
     date_end: ''
-    summary: Internship under the supervision of L. Deike.
-
+    summary: | 
+    Internship under the supervision of L. Deike.
   - position: Research intern
     company_name: Institut Jean le Rond d'Alembert - CNRS
     company_url: ''
@@ -81,8 +78,7 @@ work:
     date_start: 2024-07-01
     date_end: 2024-07-31
     summary: |
-      Optimization of hydrogels' freezing times under the superivision of L. Séguy, S. Protière, A. Huerre.
-
+    Optimization of hydrogels' freezing times under the superivision of L. Séguy, S. Protière, A. Huerre.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -92,11 +88,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+      - name: Latex
         description: ''
         percent: 40
         icon: circle-stack
@@ -104,25 +96,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Photography
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Theater
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Science
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 90
+  - name: German
     percent: 25
 
 # Awards.
@@ -130,13 +122,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: First Prize of the French Debating Tournament
+    url: https://www.frenchdebatingassociation.fr/
+    date: '2024-05-08'
+    awarder: French Debating Association
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      With the ENS debating team we won the 2024 FDA tournament against 20 other renowned French schools. The final took place at the French Parliament.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -159,4 +151,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently studying fundamental physics at ENS-PSL in Paris. For my Master 1, I'm currenlty pursuing an internship in fluid mechanics in the Department of Mechanical Engineering at Princeton University.
