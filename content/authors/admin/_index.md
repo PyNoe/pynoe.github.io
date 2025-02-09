@@ -43,8 +43,8 @@ interests:
 education:
   - area: MSc Fundamental Physics
     institution: Ecole Normale Supérieure (ENS-PSL)
-    date_start: 2024
-    date_end: 2026
+    date_start: 2024-09-01
+    date_end: 2026-07-31
     summary: |
 
       Courses included:
@@ -54,8 +54,8 @@ education:
       - Ocean dynamics, dynamical meteorology
   - area: BSc Physics
     institution: Ecole Normale Supérieure (ENS-PSL)
-    date_start: 2023
-    date_end: 2024
+    date_start: 2023-09-01
+    date_end: 2024-07-31
     summary: |
       
       Courses included:
@@ -69,16 +69,14 @@ work:
     company_logo: ''
     date_start: 2024-03-01
     date_end: ''
-    summary: | 
-    Internship under the supervision of L. Deike.
+    summary: Internship under the supervision of L. Deike.
   - position: Research intern
     company_name: Institut Jean le Rond d'Alembert - CNRS
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
     date_end: 2024-07-31
-    summary: |
-    Optimization of hydrogels' freezing times under the superivision of L. Séguy, S. Protière, A. Huerre.
+    summary: Optimization of hydrogels' freezing times under the superivision of L. Séguy, S. Protière, A. Huerre.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -129,24 +127,6 @@ awards:
     icon: coursera
     summary: |
       With the ENS debating team we won the 2024 FDA tournament against 20 other renowned French schools. The final took place at the French Parliament.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
